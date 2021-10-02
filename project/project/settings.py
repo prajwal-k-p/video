@@ -14,7 +14,7 @@ SECRET_KEY = '-@bmo08hms3wauj+#s&dah6=9lu1f8d4@8cj+zcsag1t2^_&+#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','vid-eo.herokuapp.com']
 
 
 # Application definition
